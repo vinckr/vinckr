@@ -1,5 +1,4 @@
 <head>
-<style>
 </head>
 <body>
 <img class="hello" width="700" src="./img/hello.gif" alt="hello!" >
