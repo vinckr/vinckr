@@ -8,9 +8,8 @@ My name is Vincent and this is my GitHub profile. There are many like it, but th
 I enjoy writing, hacking, music making, tumbling down the hills and symbiotic relationships with hive-minded arthropods 🐝.
 
 - 🫂 I’m looking to collaborate on open source applications that need user management.
-- 🤗 How to reach me: [email](mailto:vincent@ory.sh), [Slack](https://slack.ory.sh/), discord (<small>vinckr#9611</small>)
+- 🤗 How to reach me: [email](mailto:vincent@ory.sh), [Slack](https://slack.ory.sh/), discord (vinckr#9611)
 
----
 <img src="./img/beeanim.gif">
 
 > ### Do you want to add user sign up/login etc. to your open source project? Contact me!
