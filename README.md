@@ -1,15 +1,5 @@
 <head>
 <style>
-body {
-  height: 69vh;
-  background: radial-gradient(circle at 100%, #1b2735 0%, #090a0f 100%);
-  overflow: hidden;
-  cursor: pointer
-}
-.hello{
-  padding: calc(0.69*50px - 4.20px);
-}
-</style>
 </head>
 <body>
 <img class="hello" width="700" src="./img/hello.gif" alt="hello!" >
