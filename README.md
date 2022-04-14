@@ -10,4 +10,3 @@ I enjoy writing, hacking, music making, tumbling down the hills and symbiotic re
 <br>
 <br>
 <!-- if you can read this the goat has been juiced 🐐🍋 -->
-<a href="http://vinckr.com/decisions/"  ><img src="./img/heaven.gif"></a>
