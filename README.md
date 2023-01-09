@@ -6,6 +6,5 @@
 My name is Vincent and this is my GitHub profile.
 I enjoy writing, hacking, music making, tumbling down the hills and symbiotic relationships with hive-minded arthropods 🐝.
   
-Follow me on <a rel="me" href="https://infosec.exchange/@vinckr">infosec.exchange</a>
 <!-- if you can read this the goat has been juiced 🐐🍋 -->
 
